@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="App_ManejoDeArchivos">
+    <output-path>$PROJECT_DIR$/out/artifacts/App_ManejoDeArchivos</output-path>
+    <root id="root">
+      <element id="archive" name="App_ManejoDeArchivos.jar">
+        <element id="module-output" name="App_ManejoDeArchivos" />
+      </element>
+    </root>
+  </artifact>
+</component>

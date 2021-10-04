@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="App_ManejoDeArchivos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/App_ManejoDeArchivos_jar</output-path>
+    <root id="archive" name="App_ManejoDeArchivos.jar">
+      <element id="module-output" name="App_ManejoDeArchivos" />
+    </root>
+  </artifact>
+</component>
